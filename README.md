@@ -96,12 +96,12 @@ I'm an **AI Automation Engineer and Full Stack Developer** from Bangladesh with 
 ### 📈 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iqbalmbadhan&show_icons=true&hide_border=true&theme=transparent&title_color=4f46e5&icon_color=06b6d4&text_color=8b949e&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iqbalmbadhan&show_icons=true&hide_border=true&theme=transparent&title_color=4f46e5&icon_color=06b6d4&text_color=8b949e" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmbadhan&layout=compact&hide_border=true&theme=transparent&title_color=4f46e5&text_color=8b949e&langs_count=6" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iqbalmbadhan&bg_color=00000000&color=8b949e&line=4f46e5&point=06b6d4&area=true&area_color=4f46e5&hide_border=true" alt="Contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=iqbalmbadhan&theme=transparent&hide_border=true&ring=4f46e5&fire=06b6d4&currStreakLabel=4f46e5&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" alt="GitHub streak" />
 </p>
 
 ---
